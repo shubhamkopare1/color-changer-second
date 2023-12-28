@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+ 
+    align-items: center;
+    height: 20rem;
+    width: 20rem;
+    background-color: white;
+    border: 3px solid black;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+}
+.button1{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+    height: 2rem;
+   
+    
+}
+.button2{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+.buttons{
+    padding: rem;
+    height: 2rem;
+    width: 6rem;
+    border-radius: 10%;
+    background-color: #2e4053;
+    color: #ffffff;
+}
+body{
+    background-color: #ffc657;
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:"Times New Roman", Times, serif  ;
+    font-size: 2rem;
+    margin-top: 2rem;
+    padding: 2rem;
+    
+}
